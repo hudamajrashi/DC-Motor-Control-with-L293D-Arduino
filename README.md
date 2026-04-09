@@ -141,3 +141,19 @@ void loop() {
     delay(5000);
   }
 }
+```
+---
+
+## LCD Output States
+
+### Forward
+![Forward](DC_motor_forward.png)
+
+### Backward
+![Backward](DC_motor_backward.png)
+
+### Right
+![Right](DC_motor_right.png)
+
+### Left
+![Left](DC_motor_left.png)
